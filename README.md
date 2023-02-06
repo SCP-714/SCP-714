@@ -14,13 +14,17 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+<br/>
 </br>
   <p align=center>
 <a href="http://www.github.com/SCP-714"><img src="https://github-readme-stats.vercel.app/api?username=SCP-714&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Bain's GitHub stats" /></a>
 <a href="https://github.com/SCP-714"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SCP-714&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 </p>
+<p align='center'><b>Check out my Linkedin!</b></p>
 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/bain-obermark-6357b6226/" target="_blank" rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <!--
 **SCP-714/SCP-714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
