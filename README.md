@@ -1,7 +1,7 @@
 <h1 align='center' paddingBottom='10px'>
   I'm Bain, welcome to my Github!   
   <p align="center">
-       <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+Welcome+To+My+Page;Progress+Daily" />
+       <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World+Welcome+To+My+Page;Progress+Daily!" />
    </p>
 </h1>
 
@@ -17,6 +17,7 @@
   <a href="https://www.linkedin.com/in/bain-obermark-6357b6226/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </br>
+
 <p align=center>
 
 ### 🧰 Languages and Tools
