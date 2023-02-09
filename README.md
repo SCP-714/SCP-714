@@ -1,5 +1,5 @@
 <h1 align='center' paddingBottom='10px'>
-  I'm Bain, welcome to my Github!   
+  Welcome to my Github, please enjoy your stay!   
   <p align="center">
        <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World+Welcome+To+My+Page;Progress+Daily!" />
    </p>
